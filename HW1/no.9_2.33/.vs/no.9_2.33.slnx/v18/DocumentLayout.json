@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VIP\\Desktop\\NTUT\\115-1_ProgrammingCourse\\HW01\\HW1\\no.9_2.33\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{612E232D-0677-4815-A3D6-BE0DDE2137AD}|no.9_2.33\\no.9_2.33.vcxproj|C:\\Users\\VIP\\Desktop\\NTUT\\115-1_ProgrammingCourse\\HW01\\HW1\\no.9_2.33\\no.9_2.33\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{612E232D-0677-4815-A3D6-BE0DDE2137AD}|no.9_2.33\\no.9_2.33.vcxproj|solutionrelative:no.9_2.33\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\VIP\\Desktop\\NTUT\\115-1_ProgrammingCourse\\HW01\\HW1\\no.9_2.33\\no.9_2.33\\main.c",
+              "RelativeDocumentMoniker": "no.9_2.33\\main.c",
+              "ToolTip": "C:\\Users\\VIP\\Desktop\\NTUT\\115-1_ProgrammingCourse\\HW01\\HW1\\no.9_2.33\\no.9_2.33\\main.c",
+              "RelativeToolTip": "no.9_2.33\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-09-20T04:48:06.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
