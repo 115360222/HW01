@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\VIP\Desktop\NTUT\115-1_ProgrammingCourse\HW01\HW1\no.7_2.31\no.7_2.31\main.c(14,12): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\VIP\Desktop\NTUT\115-1_ProgrammingCourse\HW01\HW1\no.7_2.31\no.7_2.31\main.c(15,10): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  no.7_2.31.vcxproj -> C:\Users\VIP\Desktop\NTUT\115-1_ProgrammingCourse\HW01\HW1\no.7_2.31\x64\Debug\no.7_2.31.exe
